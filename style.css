@@ -1,0 +1,70 @@
+h1{
+    color: rgb(84, 46, 237);
+}
+h3{
+    color: blue;
+}
+.a1{
+    background-color: rgb(15, 203, 228);
+   
+}
+.a2{
+    color: blue;
+}
+.a3{
+    background-color: rgb(218, 233, 239);
+}
+
+
+.a3,p{
+    color: rgb(0, 0, 0);
+    left: 300px;
+    text-align: left;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color:rgb(228, 247, 247);
+    margin: 0;
+    padding: 20px;
+}
+
+form.a4 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h3 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+   
+    margin: 20px 0;
+    background-color: #fff;
+   
+}
+
+table thead tr {
+    background-color: #18c8e7;
+    color: #fff;
+}
+
+table th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+
+table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-weight: bold;
+}
+
